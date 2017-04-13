@@ -32,6 +32,7 @@ MAGIC HAPPENS!
 
 ## Authors
 **_Ludovico Loreti_** - (LudovicoLoreti)[https://github.com/ludovicoloreti]
+
 **_Uberto Vittorio Favero_** - (UbiV)[https://github.com/ubiv]
 
 
